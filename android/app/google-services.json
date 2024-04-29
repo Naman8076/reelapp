@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "653630050865",
+    "firebase_url": "https://shortvideo-30409-default-rtdb.firebaseio.com",
+    "project_id": "shortvideo-30409",
+    "storage_bucket": "shortvideo-30409.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653630050865:android:b5f758c38313212e903b10",
+        "android_client_info": {
+          "package_name": "com.example.shortvideo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653630050865-b0lna3gap2p2odbmgraufefk419ql96u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shortvideo",
+            "certificate_hash": "6869e2f55784a9eeac3fe982d0fe98b2ca3e49a6"
+          }
+        },
+        {
+          "client_id": "653630050865-hm77173oaracga1l0vbu3fk9ms0raki9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0tgafd0E_esTf_Gr7K6INq5oSMhNB3fI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653630050865-hm77173oaracga1l0vbu3fk9ms0raki9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "653630050865-sakchep90haqahno2cnbkrdgccj6kb42.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.shortvideo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
